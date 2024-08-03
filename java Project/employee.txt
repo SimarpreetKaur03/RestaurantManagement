@@ -1,0 +1,13 @@
+35 , Nikesh Arora , 35 , Krumbigal Road , 8554568990 , aroraz@gmail.com , head
+25 , Amit Singhal , 25 , Attimabbe Road , 9881675890 , singhalamit@gmail.com , Waiter
+29 , Vic Gundotra , 29 , A.V Road , 8881485610 , vic999@yahoo.co.in , Chef
+22 , Krishna Bharat , 22 , Lavelle Road , 7802569900 , bharat.krishna@gmail.com , Waiter
+30 , Lalitesh Katragadda , 30 , Manjappa Road , 6258910209 , lalitest_K4@gmail.com , Waiter
+32 , Manik Gupta , 32 , Monotype Road , 9871045443 , guptazz9@gmail.com , Manager
+35 , Nikesh Arora , 35 , Krumbigal Road , 8554568990 , aroraz@gmail.com , Manager
+25 , Amit Singhal , 25 , Attimabbe Road , 9881675890 , singhalamit@gmail.com , Waiter
+29 , Vic Gundotra , 29 , A.V Road , 8881485610 , vic999@yahoo.co.in , Chef
+22 , Krishna Bharat , 22 , Lavelle Road , 7802569900 , bharat.krishna@gmail.com , Waiter
+30 , Lalitesh Katragadda , 30 , Manjappa Road , 6258910209 , lalitest_K4@gmail.com , Waiter
+32 , Manik Gupta , 32 , Monotype Road , 9871045443 , guptazz9@gmail.com , Manager
+56 , ghjk , 56 , vbgh , 046927 , ghj@gmail.com , waiter

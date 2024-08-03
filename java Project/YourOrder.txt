@@ -1,0 +1,53 @@
+105        ,               BURGER                       ,                 Rs.50         5
+101 , PASTA , Rs.100                                                               4
+ITEM ID , ITEM NAME , PRICE         
+          
+101 , PASTA , Rs.100                                                               
+102 , COLD DRINK , Rs.67         
+103 , COFFEE , Rs.50         
+104 , TEA , Rs.90         
+105 , SHAKE , Rs.100         
+106 , BURGER , Rs.50         
+107 , PIZZA , Rs.190         
+108 , GARLIC BREAD , Rs.34         
+             ,                 ,                  
+             ,                 ,                  
+             ,                 ,                  
+ITEM ID , ITEM NAME , PRICE         
+          
+101 , PASTA , Rs.100                                                               
+102 , COLD DRINK , Rs.67         
+103 , COFFEE , Rs.50         
+104 , TEA , Rs.90         
+105 , SHAKE , Rs.100         
+106 , BURGER , Rs.50         
+107 , PIZZA , Rs.190         
+108 , GARLIC BREAD , Rs.34         
+         
+         
+ITEM ID , ITEM NAME , PRICE         
+          
+101 , PASTA , Rs.100                                                               
+102 , COLD DRINK , Rs.67         
+103 , COFFEE , Rs.50         
+104 , TEA , Rs.90         
+105 , SHAKE , Rs.100         
+106 , BURGER , Rs.50         
+107 , PIZZA , Rs.190         
+108 , GARLIC BREAD , Rs.34         
+         
+         
+             ,                 ,                  
+ITEM ID , ITEM NAME , PRICE         
+          
+101 , PASTA , Rs.100                                                               
+102 , COLD DRINK , Rs.67         
+103 , COFFEE , Rs.50         
+104 , TEA , Rs.90         
+105 , SHAKE , Rs.100         
+106 , BURGER , Rs.50         
+107 , PIZZA , Rs.190         
+108 , GARLIC BREAD , Rs.34         
+         
+         
+             ,                 ,                  

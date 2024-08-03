@@ -1,0 +1,12 @@
+78 , 12345
+70 , strong
+24 , 1010
+90 , abcd
+67 , xyz
+60 , uvwx
+48 , asdf
+74 , qwer
+25 , zxcv
+20 , lkjh
+29 , nono
+35 , yesyes
